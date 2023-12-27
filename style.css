@@ -1,0 +1,111 @@
+.brown_background{
+    background-color: #F5D3AB;
+    background-size: 100%;
+}
+.display_flex{
+    display: flex;
+}
+.top_p{
+    color: #171B1B;
+    text-align: center;
+    font-family: Oswald;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+.top_span{
+    color: #171B1B;
+    text-align: center;
+    font-family: Ultra;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 64px;
+}
+.coffe_section{
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 384px;
+    margin-left: 135px;
+}
+.coffe_pic{
+    width: 102px;
+    height: 87px;
+    padding-left: 64px;
+    padding-top: 56px;
+}
+.coffe_span{
+    color: #171B1B;
+    font-family: Ultra;
+    font-style: normal;
+    font-weight: 400; 
+    margin-left: 64px;
+    margin-top: 58px;
+    font-size: 40px;
+}
+.coffe_p{
+    color: rgba(51, 51, 51, 0.50);
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 64px;
+    margin-top: 18px;
+}
+.cake_section{
+    width: 370px;
+    height: 384px;
+    background: #FFF;
+}
+.cake_pic{
+    width: 91px;
+    height: 96px;
+    margin-left: 38px;
+    margin-top: 51px;
+}
+.cake_span{
+    color: #171B1B;
+    font-family: Ultra;
+    font-size: 40px;
+    font-weight: 400;
+    margin-left: 32px;
+    margin-top: 54px;
+}
+.cake_p{
+    color: rgba(51, 51, 51, 0.50);
+    font-family: DM Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 32px;
+    margin-top: 18px;
+}
+.bread_section{
+    background: #9EAD8D;
+    width: 400px;
+    height: 416px;
+}
+.bread_pic{
+    margin-left: 62px;
+    margin-top: 56px;
+}
+.bread_span{
+    margin-left: 63px;
+    margin-bottom: 18px;
+    color: #171B1B;
+    font-family: Ultra;
+    font-size: 40px;
+    font-weight: 400;
+}
+.bread_p{
+    color: rgba(51, 51, 51, 0.50);
+    font-family: DM Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-left: 63px;
+    margin-bottom: 48px;
+}
+.img_flex{
+    display: flex;
+}
+.background_img{
+    margin-left: 57px;
+}
